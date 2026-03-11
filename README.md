@@ -2,7 +2,7 @@
 
 **DebtSolver** is a web-based tool that helps users calculate and manage debts efficiently. The app allows users to input their debts and helps them optimize their repayment strategies, making it easier to solve financial problems.
 
-🔗 **Live Website:** [DebtSolver](https://nandisuryacharan.github.io/DebtSolver/)
+🔗 **Live Website:** [DebtSolver]( https://pathakamurinikhitha.github.io/DebtSolver/) 
 
 ## 🚀 Features
 
