@@ -13,7 +13,7 @@ onload = function () {
 
   const network = new vis.Network(container);
   const network2 = new vis.Network(container2);
-
+  
   const options = {
     edges: {
       arrows: { to: true },
